@@ -1,4 +1,4 @@
-# Traductor Multilínea Profesional
+# Traductor OpenSource
 
 ## ¿Qué es este proyecto?
 
@@ -71,6 +71,3 @@ El ejecutable se generará en la carpeta `dist/`.
 - Si tienes problemas con la traducción, asegúrate de tener conexión a internet.
 - El traductor usa la API pública de Google Translate a través de `deep_translator`.
 
----
-
-**¡Listo! Ahora puedes disfrutar de tu traductor multilínea profesional en Windows.**
