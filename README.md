@@ -11,6 +11,7 @@ Este proyecto es una aplicación de escritorio que permite traducir textos de va
 - Selección de idioma de origen y destino.
 - Botones para traducir, limpiar campos y cerrar la aplicación.
 - Traducción multilínea.
+- **Modo oscuro**: cambia el tema visual para cuidar la vista y mejorar la experiencia en ambientes con poca luz.
 
 ## ¿Cómo usar la aplicación?
 
@@ -19,7 +20,8 @@ Este proyecto es una aplicación de escritorio que permite traducir textos de va
 3. **Seleccionar idiomas**: Elige el idioma de origen (o "Auto detectar") y el idioma de destino.
 4. **Traducir**: Haz clic en el botón "Traducir" para ver la traducción en el área de salida.
 5. **Limpiar**: Usa el botón "Limpiar" para borrar los campos y empezar una nueva traducción.
-6. **Cerrar**: Pulsa "Cerrar" para salir de la aplicación.
+6. **Modo oscuro**: Pulsa el botón "Modo Oscuro" para activar el modo oscuro. Puedes volver al modo claro pulsando el mismo botón (el texto del botón cambiará a "Modo Claro").
+7. **Cerrar**: Pulsa "Cerrar" para salir de la aplicación.
 
 ## Requisitos y dependencias
 
