@@ -3,7 +3,7 @@
 ## ¿Qué es este proyecto?
 
 Este proyecto es una aplicación de escritorio que permite traducir textos de varios idiomas usando una interfaz gráfica sencilla y cómoda. Está pensada para usuarios que desean traducir párrafos o textos largos de manera rápida, sin complicaciones y sin depender del navegador web.
-
+![Aspecto Visual](interf.png)
 ## Características principales
 - Traducción automática entre múltiples idiomas usando Google Translate (a través de `deep_translator`).
 - Interfaz gráfica intuitiva y amigable (con PyQt5).
